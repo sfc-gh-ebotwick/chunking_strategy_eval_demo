@@ -3,6 +3,7 @@ channels:
   - snowflake
 dependencies:
   - bs4=*
+  - pypdf2=*
   - snowflake-ml-python=*
   - snowflake.core=*
   - trulens-connectors-snowflake=*
